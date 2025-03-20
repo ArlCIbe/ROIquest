@@ -1,0 +1,2 @@
+1. Brainstorm frequently used commands to add to tasks.json.
+2. 
