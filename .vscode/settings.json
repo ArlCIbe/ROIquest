@@ -1,0 +1,7 @@
+{
+    "copy-path-unixstyle.copyPathCygwinFormatCommand.enable": true,
+    "copy-path-unixstyle.copyPathGitBashFormatCommand.enable": true,
+    "copy-path-unixstyle.copyPathWindowsDblBackslashFormatCommand.enable": true,
+    "copy-path-unixstyle.copyPathWindowsForwardSlashFormatCommand.enable": true,
+    "copy-path-unixstyle.copyPathWSLFormatCommand.enable": true
+}
